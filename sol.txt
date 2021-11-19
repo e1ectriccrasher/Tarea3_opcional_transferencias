@@ -30,6 +30,8 @@ transferir_efectivo(Javier Orcazas, Sebas Doulong, 716.76'MX')
 		rollback
 	if succes then 
 		comit
+		
+end
 
 
 
@@ -43,3 +45,5 @@ transferencia_efectivo(Frida Kaori, DJ Delgado, 50400'MX')
 		rollback
 	if succes then 
 		comit
+
+end

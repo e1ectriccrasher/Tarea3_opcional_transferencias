@@ -1,7 +1,7 @@
 -- se supone que las transferencias con referencia las deudas se haran en un futuro en un tiempo determinado  
 
 
-ranferir_capitales(Julieta, Ulises, 400'AMZ');
+tranferir_capitales(Julieta, Ulises, 400'AMZ');
 	if error then 
 		rollback
 	if succes then
